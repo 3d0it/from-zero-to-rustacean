@@ -1,4 +1,4 @@
-# From zero to rusteacen
+# From zero to rustacean
 As promised here https://medium.com/@3d0/i-need-to-be-a-rustacean-d19015df3854, I want to share with you some of the things I do to improve my Rust skills.
 
 This is (always) work in progress!
@@ -15,5 +15,12 @@ This is (always) work in progress!
    - This is a YouTube channel that has videos on various topics related to Rust. It's based on the Rust Book but it adds some extra explanations and examples. I've watched a few videos and they were very helpful and easy to follow.
 1. Chip 8 Emulator - https://github.com/aquova/chip8-book
    - This is a fun project that I did recently where I built a chip 8 emulator using Rust. Chip 8 is an old-school virtual machine that can run simple games. It was a great way to learn more about low-level programming and Rust features. You can check out my implementation here: https://github.com/3d0it/chip8
-
+1. The Rust Book
+   - Finished reading, although not everything is fully digested. Will revisit specific sections as needed.
+1. "Zero from production in Rust"
+   - Continue exploring the book for a more comprehensive understanding.
+1. POul Rust Course - https://poul.org/courses/rust/
+   - An entry-level, super-friendly introduction to Rust.
+1. How to Learn Rust - http://learning.accelerant.dev
+   - Currently following this 12-week course and currently at the second week. Feeling positive and enjoying the material.
 
